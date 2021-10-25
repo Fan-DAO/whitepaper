@@ -1,2 +1,3 @@
-# whitepaper
-Fan DAO whitepaper
+# Fan DAO White Paper
+
+Fan DAO white paper
